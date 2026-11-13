@@ -1,0 +1,20 @@
+[
+  {
+    "file": "com46-hero.png",
+    "originalBytes": 1887358,
+    "optimizedBytes": 279582,
+    "format": "png"
+  },
+  {
+    "file": "com46-story.png",
+    "originalBytes": 2210845,
+    "optimizedBytes": 127234,
+    "format": "png"
+  },
+  {
+    "file": "com46-post.png",
+    "originalBytes": 1874537,
+    "optimizedBytes": 117426,
+    "format": "png"
+  }
+]

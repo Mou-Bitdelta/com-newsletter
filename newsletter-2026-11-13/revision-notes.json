@@ -1,0 +1,28 @@
+{
+  "status": "Approved for publication; Figma layout revision pending account tool limit",
+  "referencePdf": "C:/Users/MohamadFatta_9pmj5cz/Downloads/BitDelta 05.11.26 1 1 1.pdf",
+  "changes": [
+    "Coin logos and horizontal price/change row following the PDF",
+    "Compact listings panel with peach pair labels",
+    "Separate Chat with us banner with a new original office photo",
+    "Closing banner before the footer with a new market background",
+    "Pieverse, Gram and WLFI converted to matching copper 3D coin style with transparent backgrounds"
+  ],
+  "content": "Approved Week 46 values and descriptions retained",
+  "ampValidation": "PASS",
+  "mobile390": {
+    "horizontalOverflow": false,
+    "brokenImages": 0
+  },
+  "logoSources": {
+    "pie": "https://www.coingecko.com/en/coins/pieverse",
+    "gram": "https://coinmarketcap.com/currencies/gram/",
+    "wlfi": "https://coinmarketcap.com/currencies/world-liberty-financial-wlfi/"
+  },
+  "images": {
+    "mode": "Built-in image generation",
+    "supportPrompt": "New woman in a warm modern office on a smartphone, subject right, navy space left, copper light, no text.",
+    "closingPrompt": "Navy financial bars, luminous blue market curve and bokeh, dark center space, no text.",
+    "coinStyle": "Glossy copper coin, diagonal three-quarter view, white embossed project emblem, real alpha"
+  }
+}

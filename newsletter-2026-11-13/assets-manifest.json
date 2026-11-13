@@ -1,20 +1,217 @@
 [
   {
-    "file": "com46-hero.png",
-    "originalBytes": 1887358,
-    "optimizedBytes": 279582,
+    "file": "BitDelta.png",
+    "bytes": 12419,
     "format": "png"
   },
   {
-    "file": "com46-story.png",
-    "originalBytes": 2210845,
-    "optimizedBytes": 127234,
+    "file": "BitDelta.svg",
+    "bytes": 3108,
+    "format": "svg"
+  },
+  {
+    "file": "BitDelta1.png",
+    "bytes": 2514,
+    "format": "png"
+  },
+  {
+    "file": "BitDelta1.svg",
+    "bytes": 3194,
+    "format": "svg"
+  },
+  {
+    "file": "closing-banner.png",
+    "bytes": 190963,
+    "format": "png"
+  },
+  {
+    "file": "coin-bnb.png",
+    "bytes": 8477,
+    "format": "png"
+  },
+  {
+    "file": "coin-btc.png",
+    "bytes": 8503,
+    "format": "png"
+  },
+  {
+    "file": "coin-eth.png",
+    "bytes": 8142,
+    "format": "png"
+  },
+  {
+    "file": "coin-gram.png",
+    "bytes": 7976,
+    "format": "png"
+  },
+  {
+    "file": "coin-kite.png",
+    "bytes": 8315,
+    "format": "png"
+  },
+  {
+    "file": "coin-pie.png",
+    "bytes": 7858,
+    "format": "png"
+  },
+  {
+    "file": "coin-wlfi.png",
+    "bytes": 8207,
+    "format": "png"
+  },
+  {
+    "file": "coin-xrp.png",
+    "bytes": 8338,
+    "format": "png"
+  },
+  {
+    "file": "com46-hero.png",
+    "bytes": 279582,
     "format": "png"
   },
   {
     "file": "com46-post.png",
-    "originalBytes": 1874537,
-    "optimizedBytes": 117426,
+    "bytes": 117426,
     "format": "png"
+  },
+  {
+    "file": "com46-story.png",
+    "bytes": 127234,
+    "format": "png"
+  },
+  {
+    "file": "FacebookLogo.png",
+    "bytes": 834,
+    "format": "png"
+  },
+  {
+    "file": "FacebookLogo.svg",
+    "bytes": 2193,
+    "format": "svg"
+  },
+  {
+    "file": "gram-logo.png",
+    "bytes": 1176,
+    "format": "png"
+  },
+  {
+    "file": "InstagramLogo.png",
+    "bytes": 841,
+    "format": "png"
+  },
+  {
+    "file": "InstagramLogo.svg",
+    "bytes": 2171,
+    "format": "svg"
+  },
+  {
+    "file": "Layer1.png",
+    "bytes": 1975,
+    "format": "png"
+  },
+  {
+    "file": "Layer1.svg",
+    "bytes": 1734,
+    "format": "svg"
+  },
+  {
+    "file": "LinkedinLogo.png",
+    "bytes": 655,
+    "format": "png"
+  },
+  {
+    "file": "LinkedinLogo.svg",
+    "bytes": 2538,
+    "format": "svg"
+  },
+  {
+    "file": "listing-icon.png",
+    "bytes": 5907,
+    "format": "png"
+  },
+  {
+    "file": "medallion-bnb.png",
+    "bytes": 3383,
+    "format": "png"
+  },
+  {
+    "file": "medallion-btc.png",
+    "bytes": 3332,
+    "format": "png"
+  },
+  {
+    "file": "medallion-eth.png",
+    "bytes": 3237,
+    "format": "png"
+  },
+  {
+    "file": "medallion-gram.png",
+    "bytes": 3552,
+    "format": "png"
+  },
+  {
+    "file": "medallion-kite.png",
+    "bytes": 3270,
+    "format": "png"
+  },
+  {
+    "file": "medallion-pie.png",
+    "bytes": 3203,
+    "format": "png"
+  },
+  {
+    "file": "medallion-wlfi.png",
+    "bytes": 3332,
+    "format": "png"
+  },
+  {
+    "file": "medallion-xrp.png",
+    "bytes": 3390,
+    "format": "png"
+  },
+  {
+    "file": "pie-logo.png",
+    "bytes": 1054,
+    "format": "png"
+  },
+  {
+    "file": "support-banner.png",
+    "bytes": 126125,
+    "format": "png"
+  },
+  {
+    "file": "TelegramLogo.png",
+    "bytes": 1209,
+    "format": "png"
+  },
+  {
+    "file": "TelegramLogo.svg",
+    "bytes": 1190,
+    "format": "svg"
+  },
+  {
+    "file": "wlfi-logo.png",
+    "bytes": 670,
+    "format": "png"
+  },
+  {
+    "file": "XLogo.png",
+    "bytes": 843,
+    "format": "png"
+  },
+  {
+    "file": "XLogo.svg",
+    "bytes": 1349,
+    "format": "svg"
+  },
+  {
+    "file": "YoutubeLogo.png",
+    "bytes": 754,
+    "format": "png"
+  },
+  {
+    "file": "YoutubeLogo.svg",
+    "bytes": 1662,
+    "format": "svg"
   }
 ]

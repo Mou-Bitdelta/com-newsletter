@@ -1,16 +1,13 @@
 {
   "allReferencedAssetsPresent": true,
-  "uniqueAssetsReferenced": 20,
-  "assetFiles": 29,
-  "totalAssetBytes": 592124,
+  "uniqueAssetsReferenced": 23,
   "ampValidation": "PASS",
-  "htmlBytes": 41566,
-  "ampBytes": 40648,
+  "htmlBytes": 42870,
+  "ampBytes": 41027,
   "browserChecks": {
     "desktop": true,
     "mobileWidth390": true,
-    "horizontalOverflow": false,
-    "ampRuntimeLoaded": true
+    "horizontalOverflow": false
   },
-  "githubUpload": "Approved for publication; see upload-report.json for verification"
+  "githubUpload": "Approved for publication; verify with upload-report.json"
 }

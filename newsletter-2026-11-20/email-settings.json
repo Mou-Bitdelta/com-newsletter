@@ -1,0 +1,17 @@
+{
+  "subject": "BitDelta Weekly | Bitcoin Slides as Four Altcoins Make Moves",
+  "preheader": "Crypto moves, market insights, new listings and the week ahead. 14–20 November 2026.",
+  "folder": "newsletter-2026-11-20",
+  "repository": "Mou-Bitdelta/com-newsletter",
+  "assetBase": "https://raw.githubusercontent.com/Mou-Bitdelta/com-newsletter/main/newsletter-2026-11-20/assets/",
+  "figma": "https://www.figma.com/design/FkihikZaJ3kizqP1KgVyfu/Untitled?node-id=100-4095",
+  "originalFigma": "https://www.figma.com/design/albp1GgHdDQ3GBzwHatJqg/COM-NewsLetter?node-id=35-14",
+  "status": "Approved for GitHub publication",
+  "links": {
+    "home": "https://bitdelta.com/en",
+    "markets": "https://bitdelta.com/en/markets/spot/all",
+    "support": "https://help.bitdelta.com/hc/en-us",
+    "post": "https://x.com/bitdelta/status/2123047695195709936"
+  },
+  "fontNote": "Archivo when supported in HTML, system font fallback in AMP."
+}

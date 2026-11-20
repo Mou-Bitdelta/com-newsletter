@@ -1,0 +1,100 @@
+[
+  {
+    "file": "hero.png",
+    "sourceBytes": 485117,
+    "optimizedBytes": 150390,
+    "width": 1200,
+    "height": 406
+  },
+  {
+    "file": "closing.png",
+    "sourceBytes": 242582,
+    "optimizedBytes": 70624,
+    "width": 1120,
+    "height": 343
+  },
+  {
+    "file": "listing-icon.png",
+    "sourceBytes": 17262,
+    "optimizedBytes": 7286,
+    "width": 125,
+    "height": 122
+  },
+  {
+    "file": "calendar-icon.png",
+    "sourceBytes": 11563,
+    "optimizedBytes": 5403,
+    "width": 91,
+    "height": 101
+  },
+  {
+    "file": "story.png",
+    "sourceBytes": 351424,
+    "optimizedBytes": 110149,
+    "width": 427,
+    "height": 698
+  },
+  {
+    "file": "post.png",
+    "sourceBytes": 809815,
+    "optimizedBytes": 63535,
+    "width": 552,
+    "height": 310
+  },
+  {
+    "file": "coin-btc.png",
+    "sourceBytes": 1587055,
+    "optimizedBytes": 7314,
+    "width": 93,
+    "height": 109
+  },
+  {
+    "file": "coin-eth.png",
+    "sourceBytes": 1574642,
+    "optimizedBytes": 7026,
+    "width": 93,
+    "height": 109
+  },
+  {
+    "file": "coin-bnb.png",
+    "sourceBytes": 1771556,
+    "optimizedBytes": 7817,
+    "width": 97,
+    "height": 113
+  },
+  {
+    "file": "coin-xrp.png",
+    "sourceBytes": 1633590,
+    "optimizedBytes": 7234,
+    "width": 93,
+    "height": 109
+  },
+  {
+    "file": "coin-pie.png",
+    "sourceBytes": 1616062,
+    "optimizedBytes": 7418,
+    "width": 93,
+    "height": 109
+  },
+  {
+    "file": "coin-gram.png",
+    "sourceBytes": 2269260,
+    "optimizedBytes": 7204,
+    "width": 93,
+    "height": 109
+  },
+  {
+    "file": "coin-kite.png",
+    "sourceBytes": 1591766,
+    "optimizedBytes": 7164,
+    "width": 93,
+    "height": 109
+  },
+  {
+    "file": "coin-wlfi.png",
+    "sourceBytes": 1667581,
+    "optimizedBytes": 7352,
+    "width": 93,
+    "height": 109
+  }
+]
